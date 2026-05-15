@@ -1,0 +1,10 @@
+{
+  "name": "Storage Tiering",
+  "description": "Automated storage tiering with configurable policies for hot/warm/cold data placement",
+  "version": "1.0.0",
+  "author": "Muxcore-Media",
+  "kind": "provider",
+  "capabilities": ["storage.tiering", "storage.policy"],
+  "dependencies": [],
+  "homepage": "https://github.com/Muxcore-Media/storage-tiering"
+}
